@@ -1,0 +1,10 @@
+#image{
+    animation: myanimation 10s infinite;
+}
+@keyframes myanimation {
+    0% {background-color: whitesmoke;}
+    25%{background-color:yellow;}
+    50%{background-color:cyan;}
+    75%{background-color:blueviolet;}
+    100% {background-color: gold;}
+  }
